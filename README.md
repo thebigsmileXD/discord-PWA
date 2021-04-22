@@ -1,6 +1,6 @@
 # discord-PWA
 A wrapper for the discord web client as a Progressive Web Application, for use with Chromium browsers. This is an effort to create a successor to [discord-chrome-app](https://github.com/NeverDecaf/discord-chrome-app) for when [chromium drops support for apps](https://blog.chromium.org/2020/01/moving-forward-from-chrome-apps.html). This project aims to provide a more persistent version of the web client, without the process monitor and other bloat included in the official desktop client.
-## [Click here to Install](https://thebigsmileXD.github.io/discord-PWA/)
+## [Click here to Install](https://thebigsmilexd.github.io/discord-PWA/)
 #### Differences from the web client
 - Opens in a separate window that can be pinned and used independently from your browser.
 - Shows taskbar notifications on mentions/messages (highlight on new message and display badge with mention count -- can be customized in extension options)
