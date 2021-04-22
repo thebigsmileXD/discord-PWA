@@ -19,7 +19,7 @@ function version_is_newer(current, available) {
 
 window.addEventListener('DOMContentLoaded', (event) => {
     var extNotLoaded;
-    fetch("chrome-extension://" + extensionID + "/manifest.json")
+    fetch("chrome-extension://" + extensionID + "/site.webmanifest")
         .then(response => response.json())
         .then(data => {
             installedExtVersion = data.version;
